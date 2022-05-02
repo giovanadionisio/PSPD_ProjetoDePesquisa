@@ -4,7 +4,7 @@ import time
 
 hostname = 'localhost'
 port = int(9999)
-arquivo = open('words2.txt', 'r')
+arquivo = open('words.txt', 'r')
 
 def socket_de_envio(hn, p):
 	sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
