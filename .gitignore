@@ -1,2 +1,5 @@
 parte1/env
-parte2/env
+parte2/.env
+parte2/palavrasCom*
+parte2/checkpoint*
+parte2/.ipynb_checkpoints/
