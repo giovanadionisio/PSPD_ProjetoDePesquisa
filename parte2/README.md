@@ -16,6 +16,15 @@
   
 
 ### Execução
+Primeiramente crie os seguintes tópicos Kafka:  
+- topico
+- PalavrasComS
+- PalavrasComP
+- PalavrasComR
+- PalavrasCom6
+- PalavrasCom8
+- PalavrasCom11
+
 Em um terminal execute o comando:  
 ```spark-submit --packages org.apache.spark:spark-sql-kafka-0-10_2.12:3.2.1 word_count.py localhost 9999```    
 para a execução do servidor Spark.
