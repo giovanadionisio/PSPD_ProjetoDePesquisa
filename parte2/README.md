@@ -43,3 +43,6 @@ abra o notebook ```gera_grafico.ipynb``` e execute a primeira (e única) célula
 | spark(_wordcount.py_) | gráfico |
 | --------------------- | ---------------- |
 |![spark](https://i.ibb.co/3fzDLVz/Captura-de-tela-de-2022-05-02-19-19-43.png)|![python](https://i.ibb.co/xhYJ3jv/Captura-de-tela-de-2022-05-02-19-18-25.png)|
+
+[Vídeo de execução](https://www.loom.com/share/327baaae8e9e4889901a1d82943116ff)  
+[Vídeo de execução - Gráfico](https://www.loom.com/share/c150187260014f888bef8562044ac7b3)
