@@ -21,3 +21,5 @@ Para a execução do servidor Spark, execute:
 | spark(_wordcount.py_) | _envia_palavras_ |
 | --------------------- | ---------------- |
 |![spark](https://i.ibb.co/m4Kp5bh/spark.png)|![python](https://i.ibb.co/8xYWyLH/python.png)|
+
+[Vídeo da execução](https://www.loom.com/share/afba3afc4b64404f8a36c890d3d805a9)
